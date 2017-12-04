@@ -9,7 +9,10 @@ ul {
   margin: 0 auto;
   max-width: 1200px; }
 
-nav li {
-  margin: 10px; }
+nav {
+  /*tutaj zmiana*/
+  background-color: red; }
+  nav li {
+    margin: 10px; }
 
 /*# sourceMappingURL=style.css.map */
